@@ -1,8 +1,8 @@
 def solve():
         global folder1
         global folder2
-        folder1 = r"D:\SD\allmusic"
-        folder2 = r"D:\SD\all"
+        folder1 = r"D:\BodemtimecuaOsama\allmusic" #Nên tải về rồi đặt theo hoặc đổi vị trí folder thành nơi bạn lưu để có thể sử dụng nha
+        folder2 = r"D:BodemtimecuaOsama\all"
         import os
         import msvcrt
         import time
@@ -247,7 +247,8 @@ def solve():
                 "Chui lủi: Sau khi Mỹ đưa quân vào Afghanistan để lật đổ chế độ Taliban và truy quét al-Qaeda, bin Laden đã phải lẩn trốn trong suốt gần một thập kỷ tại nhiều địa điểm ở vùng biên giới Afghanistan - Pakistan.",
                 "Về Cái chết và Di sản: ",
                 "Bị tiêu diệt: Vào rạng sáng ngày 2 tháng 5 năm 2011, Osama bin Laden đã bị đặc nhiệm Hải quân Mỹ (SEAL) tiêu diệt trong một cuộc đột kích táo bạo tại thành phố Abbottabad, Pakistan (Chiến dịch mang tên Neptune Spear).",
-                "Xác nhận: Thi thể của hắn được nhận dạng bằng phương pháp ADN và sau đó được thủy táng trên biển."
+                "Xác nhận: Thi thể của hắn được nhận dạng bằng phương pháp ADN và sau đó được thủy táng trên biển.",
+                "Nguồn: AI của Google tóm lược từ Wikipedia"
                 ]
                 def mod():
                         global negaaa

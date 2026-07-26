@@ -1,8 +1,8 @@
 def solve():
         global folder1
         global folder2
-        folder1 = r"D:\BodemtimecuaOsama\allmusic" #Nên tải về rồi đặt theo hoặc đổi vị trí folder thành nơi bạn lưu để có thể sử dụng nha
-        folder2 = r"D:BodemtimecuaOsama\all"
+        folder1 = r"\allmusic" #Nên tải về rồi đặt theo hoặc đổi vị trí folder thành nơi bạn lưu để có thể sử dụng nha
+        folder2 = r"\all"
         import os
         import msvcrt
         import time

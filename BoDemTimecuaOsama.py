@@ -141,7 +141,6 @@ def solve():
         def playmusic():
                 while True:
                         os.system('cls')
-                        folder1 = r"D:\SD\allmusic"
                         print('Trình phát nhạc của Osama')
                         print('-' * 40)
                         print('Bạn có thể lựa chọn các bản nhạc/vid sau:')
